@@ -1,0 +1,32 @@
+.searchbar{
+	
+	height: 40px;
+	border-radius: 40px;
+	padding: 10px;
+	margin-left:0px;
+
+}
+.buttons{
+	float: right;
+	
+	align-self: flex-end;
+}
+.adminbody{
+	background-image: url("../images/admin.jpg");
+	background-size: 100% 900px;
+	background-repeat: no-repeat;
+}
+.flex-container{
+	display: flex;
+	flex-direction: column;
+	background-color: dodgerblue;
+	
+	padding: 0px;
+	justify-content: flex-start;
+
+}
+.mango{
+	
+	text-align: center;
+}
+
